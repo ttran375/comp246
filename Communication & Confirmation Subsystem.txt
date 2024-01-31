@@ -1,0 +1,38 @@
+title Use Case 3.2.3: Communication & Confirmation Subsystem
+
+actor #blue:0.5 "Buyer" as B
+actor #blue:0.5 "Seller" as S
+
+boundary #red:0.75 "Buyer\nInterface Class" as BIC
+boundary #red:0.75 "Seller\nInterface Class" as SIC
+boundary #red:0.75 "Message\n Class" as MC
+
+control #green:0.75 "Manage Communication\nClass" as MCC
+
+entity #yellow:0.75 "Transaction Class" as TC
+
+autoactivation on
+
+B -> BIC: 1. Initiate communication
+BIC -> MCC: 2. Transfer message
+MCC -> MC: 3. Save message
+MC --> MCC: 4. Send acknowledgement
+MCC --> BIC: 5. Display acknowledgement
+
+S -> SIC: 6. Respond to communication
+SIC -> MCC: 7. Transfer response
+MCC -> MC: 8. Save response
+MC --> MCC: 9. Send acknowledgement
+MCC --> SIC: 10. Display acknowledgement
+
+B -> BIC: 11. Confirm transaction
+BIC -> MCC: 12. Transfer confirmation
+MCC -> TC: 13. Update transaction status
+TC --> MCC: 14. Send acknowledgement
+MCC --> BIC: 15. Display acknowledgement
+
+S -> SIC: 16. Confirm transaction
+SIC -> MCC: 17. Transfer confirmation
+MCC -> TC: 18. Update transaction status
+TC --> MCC: 19. Send acknowledgement
+MCC --> SIC: 20. Display acknowledgement
