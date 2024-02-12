@@ -78,7 +78,7 @@ gardens and more.
 
 ## Section 3: Requirements - functional and non-functional
 
-### 3.1 Non- functional Requirements
+### 3.1 Non-functional Requirements
 
 | NFR#   | Name             | Description                                                                                                                           |
 |--------|------------------|---------------------------------------------------------------------------------------------------------------------------------------|
