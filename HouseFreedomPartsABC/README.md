@@ -95,9 +95,8 @@ style="width:6.19792in;height:3.17361in" />
 
 #### 3.2.1 Login and Registration Subsystems
 
-|      |                      |                                                          |                                                                                                                      |
-|------|----------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | FR#  | Name (Goal Use case) | Role Player                                              | Description                                                                                                          |
+|------|----------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | FR01 | Login to the system  | All users                                                | Login to the system to access a personal account.                                                                    |
 | FR02 | Change password      | All users                                                | Allow a registered user to change the password.                                                                      |
 | FR03 | Logout of the system | All users                                                | Allow the user to logout to the system any time.                                                                     |
