@@ -37,63 +37,37 @@ gardens and more.
 
 #### Benefits
 
-1 - Connect people who are interested in renting a space temporarily and
-people who need a land to live, crop or raise animals (like chicken,
-pigs, etc.).
-
-2 - Provide cheaper house plan designs to people who need a place to
-work and/or live and are not able to pay so much to buy or build a
-house.
-
-3 - Connect universities so they can develop and apply projects they
-created regarding sustainable technologies, green houses, energy saving,
-and recycling.
-
-4 - Provide field experience to students in the university's projects.
-
-5- Connect architects, engineers and constructors specialized into eco
-technologies.
-
-6 - Develop unused spaces in farmlands.
-
-7 - Encourage the migration of people to less urbanized areas for the
-development of the region.
+1. Connect people who are interested in renting a space temporarily and people who need a land to live, crop or raise animals (like chicken, pigs, etc.).
+2. Provide cheaper house plan designs to people who need a place to work and/or live and are not able to pay so much to buy or build a house.
+3. Connect universities so they can develop and apply projects they created regarding sustainable technologies, green houses, energy saving, and recycling.
+4. Provide field experience to students in the university's projects.
+5. onnect architects, engineers and constructors specialized into eco technologies.
+6. Develop unused spaces in farmlands.
+7. Encourage the migration of people to less urbanized areas for the development of the region.
 
 ### 1.2 Identify the stakeholders and their roles
 
-- Home seeker
-
-- Landowners
-
-- Universities (professors, students and group projects)
-
-- Eco professionals (architects, engineers and constructors)
-
-- Managers
+1. Home seeker
+1. Landowners
+1. Universities (professors, students and group projects)
+1. Eco professionals (architects, engineers and constructors)
+1. Managers
 
 ### 1.3 Identify the sub-systems of your application (What are its functional components) 
 
-- Login Subsystem
-
-- Registration Subsystem
-
-- Search Subsystem
-
-- Gallery Subsystem
-
-- Home Design Subsystem
-
-- Communication Subsystem
-
-- Payment Subsystem
-
-- Rating Subsystem
+1. Login Subsystem
+1. Registration Subsystem
+1. Search Subsystem
+1. Gallery Subsystem
+1. Home Design Subsystem
+1. Communication Subsystem
+1. Payment Subsystem
+1. Rating Subsystem
 
 ### 1.4 Who are the intended users of the SRS documentation.
 
-- Developers/Software Design Architect
-
-- Managers
+1. Developers/Software Design Architect
+1. Managers
 
 ##  
 
