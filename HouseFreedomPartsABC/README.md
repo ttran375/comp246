@@ -24,28 +24,18 @@ gardens and more.
 
 ### 1.1.b. List of Capabilities and Benefits
 
-\(i\) Capabilities
+#### Capabilities
 
-1 - Register and store user information.
+1. Register and store user information.
+2. Register information about land and services available.
+3. Allow designers, architects, constructors and universities to upload pictures of previous works into the gallery (portfolio).
+4. Allow users to build and/or register a draft project, in order to connect to service providers that can execute it.
+5. Receive payments by credit/debit card.
+6. Provide a search tool.
+7. Provide a communication area for customers and service providers.
+8. Allow users to access the rating system to read comments and feedback for professionals before choosing them.
 
-2 - Register information about land and services available.
-
-3 - Allow designers, architects, constructors and universities to upload
-pictures of previous works into the gallery (portfolio).
-
-4 - Allow users to build and/or register a draft project, in order to
-connect to service providers that can execute it.
-
-5 - Receive payments by credit/debit card.
-
-6 - Provide a search tool.
-
-7 - Provide a communication area for customers and service providers.
-
-8 - Allow users to access the rating system to read comments and
-feedback for professionals before choosing them.
-
-\(ii\) Benefits
+#### Benefits
 
 1 - Connect people who are interested in renting a space temporarily and
 people who need a land to live, crop or raise animals (like chicken,
