@@ -69,8 +69,6 @@ gardens and more.
 1. Developers/Software Design Architect
 1. Managers
 
-##  
-
 ## Section 2: General Overview Modelling
 
 ### 2.1 Context Flow Diagram (CFD)--- WHAT
@@ -82,9 +80,8 @@ style="width:6.19792in;height:3.17361in" />
 
 ### 3.1 Non- functional Requirements
 
-|        |                  |                                                                                                                                       |
-|--------|------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | NFR#   | Name             | Description                                                                                                                           |
+|--------|------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | NFR001 | Efficiency       | Requirements of the software system handles capacity, throughput, and response time to request.                                       |
 | NFR002 | Security         | Requirements of the software system to be able to protect its data, and profile information from internal and external sources.       |
 | NFR003 | Flexibility      | Ability of the software system to adapt to different configurations, and user expectations.                                           |
