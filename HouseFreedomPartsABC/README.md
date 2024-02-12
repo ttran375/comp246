@@ -105,11 +105,11 @@ gardens and more.
 | FR06 | Register services    | Eco professionals, Universities, Developers and Managers | Allow a registered user to insert the offered service into the system.                                               |
 | FR07 | Register lands       | Landowners, Developers and Managers                      | Allow a registered user to insert land available into the system.                                                    |
 
-*Use Case Diagram*
+##### Use Case Diagram
 
 <img src="./media/image3.png" style="width:6.90972in;height:4.93056in" />
 
-*User Story*
+##### User Story
 
 1. As a user, I want to login or create my account, so I can access the system.
 
@@ -154,12 +154,12 @@ any time that I need
 | FR03 | Sort list            | All users   | The user is allowed to sort the list according to proximity, price range, rating, and name.                                     |
 | FR04 | Mark as favourite    | All user    | The users can mark their favourites lands or professionals and this information will be stored into their account.              |
 
-*Use Case Diagram*
+##### Use Case Diagram
 
 <img src="./media/image4.png"
 style="width:6.99167in;height:4.23819in" />
 
-*User Story*
+##### User Story
 
 1. As a user, I want an efficient search tool so that I can insert
 specific details about my searching.
@@ -205,12 +205,12 @@ access to the results I liked the most.
 | FR05 | Send project to professional | Home Seekers, Developers and Managers                                  | Once a home seeker finishes a project, it can be sent to experts subscribed. The experts would decide to take a project and make a proposal.                                                                           |
 | FR06 | Send project to landowner    | Home Seekers, Developers and Managers                                  | If there is not Land available when the project has been done, users could send to the available landowners to accept the project and offer the land.                                                                  |
 
-*Use Case Diagram*
+##### Use Case Diagram
 
 <img src="./media/image5.png"
 style="width:6.99167in;height:4.85833in" />
 
-*User Story*
+##### User Story
 
 1. As a Home seeker I want to create a space to create my project,
 where I will be able to select the materials and technologies to use on
