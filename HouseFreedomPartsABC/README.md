@@ -24,26 +24,27 @@ gardens and more.
 
 ### 1.1.b. List of Capabilities and Benefits
 
+
 #### Capabilities
 
 1. Register and store user information.
-2. Register information about land and services available.
-3. Allow designers, architects, constructors and universities to upload pictures of previous works into the gallery (portfolio).
-4. Allow users to build and/or register a draft project, in order to connect to service providers that can execute it.
-5. Receive payments by credit/debit card.
-6. Provide a search tool.
-7. Provide a communication area for customers and service providers.
-8. Allow users to access the rating system to read comments and feedback for professionals before choosing them.
+1. Register information about land and services available.
+1. Allow designers, architects, constructors and universities to upload pictures of previous works into the gallery (portfolio).
+1. Allow users to build and/or register a draft project, in order to connect to service providers that can execute it.
+1. Receive payments by credit/debit card.
+1. Provide a search tool.
+1. Provide a communication area for customers and service providers.
+1. Allow users to access the rating system to read comments and feedback for professionals before choosing them.
 
 #### Benefits
 
 1. Connect people who are interested in renting a space temporarily and people who need a land to live, crop or raise animals (like chicken, pigs, etc.).
-2. Provide cheaper house plan designs to people who need a place to work and/or live and are not able to pay so much to buy or build a house.
-3. Connect universities so they can develop and apply projects they created regarding sustainable technologies, green houses, energy saving, and recycling.
-4. Provide field experience to students in the university's projects.
-5. onnect architects, engineers and constructors specialized into eco technologies.
-6. Develop unused spaces in farmlands.
-7. Encourage the migration of people to less urbanized areas for the development of the region.
+1. Provide cheaper house plan designs to people who need a place to work and/or live and are not able to pay so much to buy or build a house.
+1. Connect universities so they can develop and apply projects they created regarding sustainable technologies, green houses, energy saving, and recycling.
+1. Provide field experience to students in the university's projects.
+1. onnect architects, engineers and constructors specialized into eco technologies.
+1. Develop unused spaces in farmlands.
+1. Encourage the migration of people to less urbanized areas for the development of the region.
 
 ### 1.2 Identify the stakeholders and their roles
 
@@ -73,8 +74,7 @@ gardens and more.
 
 ### 2.1 Context Flow Diagram (CFD)--- WHAT
 
-<img src="./media/image2.png"
-style="width:6.19792in;height:3.17361in" />
+<img src="./media/image2.png" style="width:6.19792in;height:3.17361in" />
 
 ## Section 3: Requirements - functional and non-functional
 
@@ -107,8 +107,7 @@ style="width:6.19792in;height:3.17361in" />
 
 *Use Case Diagram*
 
-<img src="./media/image3.png"
-style="width:6.90972in;height:4.93056in" />
+<img src="./media/image3.png" style="width:6.90972in;height:4.93056in" />
 
 *User Story*
 
